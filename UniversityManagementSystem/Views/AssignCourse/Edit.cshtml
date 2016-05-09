@@ -1,0 +1,69 @@
+﻿@model UniversityManagementSystem.Models.AssignCourse
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>AssignCourse</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+        @Html.HiddenFor(model => model.AssignCourseId)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DepartmentId, "DepartmentId", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("DepartmentId", String.Empty)
+                @Html.ValidationMessageFor(model => model.DepartmentId)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TeacherId, "TeacherId", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("TeacherId", String.Empty)
+                @Html.ValidationMessageFor(model => model.TeacherId)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CreditToBeTaken, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.CreditToBeTaken)
+                @Html.ValidationMessageFor(model => model.CreditToBeTaken)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.RemainingCredit, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.RemainingCredit)
+                @Html.ValidationMessageFor(model => model.RemainingCredit)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CourseId, "CourseId", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("CourseId", String.Empty)
+                @Html.ValidationMessageFor(model => model.CourseId)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

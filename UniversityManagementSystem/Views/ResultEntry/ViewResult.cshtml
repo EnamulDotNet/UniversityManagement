@@ -1,0 +1,55 @@
+﻿@{
+    ViewBag.Title = "View Result";
+}
+
+<h2>View Result</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        <b>Student Reg. No.</b>
+        @Html.DropDownList("StudentId", String.Empty)
+    </div>
+}
+
+<div id="studentInfo">
+    @Html.Partial("~/Views/shared/_studentInformation.cshtml")
+</div>
+
+<p><br /></p>
+
+<div id="MakePDF">
+    <input type="button" value="Make PDF" name="PDF" id="PDF" onclick="location.href='@Url.Action("GeneratePDF", "ResultEntry")'" />
+</div>
+
+<p><br /></p>
+
+<div id="result_Data">
+    @Html.Partial("~/Views/Shared/_ResultInformation.cshtml")
+</div>
+@Html.ActionLink("Back to home", "Index", "Main")
+<script src="~/Scripts/jquery-2.2.0.min.js"></script>
+ 
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+<script type="text/javascript">
+    function FillData(id) {
+        $('#studentInfo').load('@Url.Action("StudentInfoLoad")', { studentId: id });
+
+        @*$('#PDF').click(function() {
+            $('#MakePDF').load('@Url.Action("ResultPDF")', { studentId: id });
+        });*@
+
+        $('#result_Data').load('@Url.Action("ResultInfoLoad")', { studentId: id });
+    }
+
+    $(function () {
+        $('#StudentId').change(function () {
+            var id = $('#StudentId').val();
+            FillData(id);
+        });
+    });
+
+</script>
+

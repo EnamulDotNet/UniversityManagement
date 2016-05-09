@@ -1,0 +1,111 @@
+﻿@model UniversityManagementSystem.Models.RoomAllocation
+
+@{
+    ViewBag.Title = "Allocation Classroom";
+}
+<link href="~/Content/formStyle.css" rel="stylesheet" />
+
+@*<h2>Allocation Classroom</h2>*@
+
+<h4 style="color: red">@TempData["Message"]</h4>
+
+<fieldset style="margin-left: 200px; border: 1px solid teal; width: 800px;">
+    <legend style="color: gold; font-size: 27px; margin-top: 20px; margin-left: 100px;">Allocate Classroom</legend>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+             
+            @Html.ValidationSummary(true)
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.DepartmentId, "Department", new {@class = "control-label col-md-2"})
+                <div class="col-md-10">
+                    @Html.DropDownList("DepartmentId", String.Empty)
+                    @Html.ValidationMessageFor(model => model.DepartmentId)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.CourseId, "Course", new {@class = "control-label col-md-2"})
+                <div class="col-md-10">
+                    @Html.Partial("_FilteredCourse")
+                    @Html.ValidationMessageFor(model => model.CourseId)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.RoomId, "Room", new {@class = "control-label col-md-2"})
+                <div class="col-md-10">
+                    @Html.DropDownList("RoomId", String.Empty)
+                    @Html.ValidationMessageFor(model => model.RoomId)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.DayId, "Day", new {@class = "control-label col-md-2"})
+                <div class="col-md-10">
+                    @Html.DropDownList("DayId", String.Empty)
+                    @Html.ValidationMessageFor(model => model.DayId)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.StartTime, new {@class = "control-label col-md-2"})
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.StartTime)
+                    @Html.ValidationMessageFor(model => model.StartTime)
+                </div>
+            </div>
+
+            <div>
+                <h3 style="color: crimson">@TempData["ErrorMessage4"]</h3>
+            </div>
+            <div>
+                <h3 style="color: crimson">@TempData["ErrorMessage1"]</h3>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.EndTime, new {@class = "control-label col-md-2"})
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.EndTime)
+                    @Html.ValidationMessageFor(model => model.EndTime)
+                </div>
+            </div>
+
+            <div>
+                <h3 style="color: crimson">@TempData["ErrorMessage5"]</h3>
+            </div>
+            <div>
+                <h3 style="color: crimson">@TempData["ErrorMessage2"]</h3>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Allocate" class="btn btn-default"/>
+                </div>
+            </div>
+        </div>
+    }
+</fieldset>
+@Html.ActionLink("Back to home", "Index", "Main")
+
+
+<script src="~/Scripts/jquery-2.2.0.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+ 
+
+<script type="text/javascript">
+    function FillData(id) {
+        $('#CourseId').load('@Url.Action("LoadCourse")', { departmentId: id });
+    }
+
+    $(function () {
+        $('#DepartmentId').change(function () {
+            var id = $('#DepartmentId').val();
+            FillData(id);
+        });
+    });
+</script>

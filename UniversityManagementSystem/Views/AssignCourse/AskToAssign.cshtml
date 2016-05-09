@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "Ask To Assign";
+}
+
+<h2>Ask To Assign</h2>
+
+<div>
+    <h3 style="color: chocolate">@ViewBag.Message</h3>
+</div>
+
+<form action="AssignConfirmed">
+
+    <input type="submit" value="Yes" class="btn btn-success" />
+
+</form>
+
+<p>
+    <br />
+</p>
+
+<form action="Create">
+
+    <input type="submit" value="No" class="btn btn-warning" />
+
+</form>

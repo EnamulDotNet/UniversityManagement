@@ -1,0 +1,19 @@
+﻿@model IEnumerable<UniversityManagementSystem.Models.RoomAllocation>
+
+@{
+    ViewBag.Title = "Room";
+}
+
+<h2>Wellcome to Room Allocation Processing System</h2>
+
+<table class="table">
+    <ul>
+        <li>
+            @Html.ActionLink("Allocate Classrooms", "Create")
+        </li>
+
+        <li>
+            @Html.ActionLink("View Class Schedule and Room Allocation Information", "RoomAllocationView")
+        </li>
+    </ul>
+</table>

@@ -1,0 +1,540 @@
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Owin.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\WebGrease.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.xml
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.xml
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.pdb
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.xml
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.xml
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.xml
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.xml
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version1.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.GenerateResource.Cache
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version2.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version3.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version4.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version5.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version6.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version7.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version8.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version9.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version10.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version11.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version12.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version13.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version14.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version15.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version16.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version17.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version18.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version181.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version19.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version20.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version21.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version22.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version23.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version24.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version241.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version25.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version26.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version27.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version28.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version29.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version291.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version30.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version31.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version32.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version33.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version331.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version34.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version35.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version36.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version361.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version37.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version38.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version39.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version40.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\bin\Rotativa.dll
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version41.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version42.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version43.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version44.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version45.resources
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+D:\Visual2013FILES\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version46.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Owin.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Rotativa.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\WebGrease.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.xml
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version1.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version2.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version3.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version4.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version5.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version6.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version7.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version8.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version9.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version10.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version11.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version12.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version13.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version14.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version15.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version16.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version17.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version18.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version181.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version19.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version20.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version21.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version22.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version23.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version24.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version241.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version25.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version26.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version27.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version28.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version29.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version291.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version30.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version31.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version32.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version33.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version331.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version34.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version35.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version36.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version361.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version37.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version38.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version39.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version40.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version41.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version42.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version43.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version44.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version45.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version46.resources
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.GenerateResource.Cache
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+C:\Users\reud\Desktop\Final_Project\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Owin.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Rotativa.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\WebGrease.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.xml
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version1.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version2.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version3.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version4.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version5.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version6.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version7.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version8.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version9.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version10.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version11.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version12.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version13.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version14.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version15.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version16.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version17.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version18.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version181.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version19.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version20.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version21.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version22.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version23.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version24.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version241.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version25.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version26.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version27.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version28.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version29.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version291.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version30.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version31.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version32.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version33.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version331.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version34.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version35.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version36.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version361.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version37.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version38.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version39.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version40.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version41.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version42.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version43.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version44.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version45.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version46.resources
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.GenerateResource.Cache
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+C:\Users\reud\Desktop\CodeFighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Owin.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Rotativa.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\WebGrease.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.xml
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version1.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version2.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version3.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version4.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version5.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version6.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version7.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version8.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version9.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version10.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version11.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version12.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version13.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version14.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version15.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version16.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version17.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version18.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version181.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version19.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version20.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version21.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version22.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version23.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version24.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version241.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version25.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version26.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version27.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version28.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version29.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version291.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version30.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version31.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version32.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version33.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version331.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version34.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version35.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version36.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version361.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version37.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version38.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version39.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version40.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version41.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version42.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version43.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version44.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version45.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version46.resources
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.GenerateResource.Cache
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+C:\Users\BITM Trainer\Desktop\SEIP Project (.NET)\Batch 10\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Owin.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Rotativa.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\WebGrease.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.xml
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version1.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version2.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version3.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version4.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version5.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version6.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version7.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version8.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version9.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version10.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version11.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version12.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version13.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version14.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version15.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version16.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version17.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version18.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version181.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version19.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version20.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version21.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version22.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version23.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version24.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version241.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version25.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version26.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version27.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version28.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version29.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version291.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version30.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version31.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version32.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version33.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version331.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version34.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version35.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version36.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version361.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version37.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version38.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version39.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version40.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version41.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version42.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version43.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version44.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version45.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.version46.resources
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.GenerateResource.Cache
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+C:\Users\APON\Desktop\NAZMUL\Final Project Presentation\Code Fighters\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb

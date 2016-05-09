@@ -1,0 +1,44 @@
+﻿@model List<UniversityManagementSystem.Models.CourseEnroll>
+
+@if (Model != null)
+{
+    <table class="table table-striped">
+        <tr>
+            <th>
+                Course Code
+            </th>
+            <th>
+                Course Name
+            </th>
+            <th>
+                Grade
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Course.CourseCode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Course.CourseName)
+                </td>
+
+                <td>
+                    @if (item.GradeName != null)
+                    {
+                        @Html.DisplayFor(modelItem => item.GradeName)
+                    }
+                    @if (item.GradeName == null)
+                    {
+                        item.GradeName = "Not Graded Yet";
+                        @Html.DisplayFor(modelItem => item.GradeName)
+                    }
+                </td>
+            </tr>
+        }
+    </table>
+}
+
+<div style="color: darkgoldenrod"><h3>@ViewBag.NotEnrolled</h3></div>

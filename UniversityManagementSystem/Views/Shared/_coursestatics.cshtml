@@ -1,0 +1,50 @@
+﻿@model IEnumerable<UniversityManagementSystem.Models.Course>
+
+@if (Model != null)
+{
+    <table class="table table-striped">
+        <tr>
+            <th>
+                Code
+            </th>
+            <th>
+                Name/Title
+            </th>
+            <th>
+                Semester
+            </th>
+            <th>
+                Assigned To
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CourseCode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CourseName)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Semester.SemesterName)
+                </td>
+                <td>
+                    @if (item.AssignTo != null)
+                    {
+                        @Html.DisplayFor(modelItem => item.AssignTo)
+                    }
+                    @if (item.AssignTo == null)
+                    {
+                        item.AssignTo = "Not Assigned Yet";
+                        @Html.DisplayFor(modelItem => item.AssignTo)
+                    }
+                </td>
+            </tr>
+        }
+    </table>
+}
+
+<div style="color: darkgoldenrod"><h3>@ViewBag.NotAssigned</h3></div>

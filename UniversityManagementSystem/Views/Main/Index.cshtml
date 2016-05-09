@@ -1,0 +1,67 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style>
+        *{margin:0px auto;padding:0px;}
+        .wrapper{width:980px;background:gray;}
+        header{font-family:Verdana;font-size:25px;font-style:italic;background:teal;color:whitesmoke;
+               text-align:center;height:65px;line-height:65px;margin-top:5px;
+        }
+        .menu a {
+            text-decoration: none;
+            font-family: lucida;
+            font-size: 26px;
+            border-radius: 6px;
+            font-style: italic;
+            font-weight: bold;
+            color: black;
+            border:none;
+             
+        }
+        button{width:310px;margin-top:4px;
+               margin-left:350px;border-radius:10px;
+        }
+        button:hover{
+            background:crimson;color:white;border-radius:7px;
+        }
+        .menu a:hover{color:white;}
+        footer{
+            text-shadow:1px 1px 2px crimson;
+            background:black;color:teal;font-family:Comic Sans MS;font-size:25px;text-align:center;
+            height:47px; margin-top:20px;line-height:47px;font-size:25px;font-weight:bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper"> 
+
+        <header> University Management System</header>
+        <div class="menu">
+            <button> @Html.ActionLink("Save Department","Create","SaveDepartment") </button> <br />
+            <button> @Html.ActionLink("View All Department", "Index", "SaveDepartment") </button> <br />
+            <button> @Html.ActionLink("Save Course", "Create", "SaveCourse") </button> <br />
+            <button> @Html.ActionLink("Save Teacher", "Create", "SaveTeacher") </button> <br />
+            <button> @Html.ActionLink("Course Assign To Teacher", "Create", "AssignCourse") </button> <br />
+            <button> @Html.ActionLink("View Course Statics", "ViewCourseStatics", "AssignCourse") </button> <br />
+            <button> @Html.ActionLink("Register Student", "Create", "RegisterStudent") </button> <br />
+            <button> @Html.ActionLink("Allocate Classroom", "Create", "RoomAllocation") </button> <br />
+            <button> @Html.ActionLink("View Class Schedule", "RoomAllocationView", "RoomAllocation") </button> <br />
+            <button> @Html.ActionLink("Enroll In a Course", "Create", "CourseEnroll") </button> <br />
+            <button> @Html.ActionLink("Save Student Result", "Create", "ResultEntry") </button> <br />
+            <button> @Html.ActionLink("View Result", "ViewResult", "ResultEntry") </button> <br />
+            <button> @Html.ActionLink("Unassign All Course", "Create", "SaveDepartment") </button> <br />
+            <button> @Html.ActionLink("UnAllocate All Classrooms", "Create", "SaveDepartment") </button> <br />
+        </div>
+
+        <footer> <marquee>Copyright By Codefighters&copy;2016-2017 </marquee></footer>
+    </div>
+</body>
+</html>

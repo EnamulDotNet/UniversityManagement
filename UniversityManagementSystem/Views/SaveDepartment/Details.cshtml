@@ -1,0 +1,42 @@
+﻿@model UniversityManagementSystem.Models.Department
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>Department</h4>
+    	<hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.DepartmentCode)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.DepartmentCode)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.DepartmentName)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.DepartmentName)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.DepartmentId }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

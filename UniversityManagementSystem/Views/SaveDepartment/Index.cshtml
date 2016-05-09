@@ -1,0 +1,69 @@
+﻿@model IEnumerable<UniversityManagementSystem.Models.Department>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>View All Department</title>
+    <style>
+        .BackHome { margin-top: 60px; }
+        .BackHome a {
+            text-decoration: none;font-size: 26px;
+            font-family: arial;margin-left: 880px;
+        }
+        .BackHome a:hover{color:orange;}
+        .table{border: 1px solid black;text-align: center;color: chocolate;font-size: 21px;font-family: lucida;}
+        tr, td, th {
+            border: 2px solid teal;
+            text-align: center;
+            color: chocolate;
+            font-size: 21px;
+            font-family: lucida;
+        }
+    </style>
+</head>
+<body>
+    <p style="font-family: comic sans ms; font-size: 28px; text-align: center;">
+        View All Department
+    </p>
+    <table class="table"  style="width:100%">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DepartmentCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DepartmentName)
+            </th>
+
+            @*<th>Operations</th>*@
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DepartmentCode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DepartmentName)
+                </td>
+                @*<td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.DepartmentId }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.DepartmentId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.DepartmentId })
+                </td>*@
+            </tr>
+        }
+
+    </table>
+
+    <div class="BackHome">
+        @Html.ActionLink("Back to Home Page", "Index", "Main")
+    </div>
+</body>
+</html>

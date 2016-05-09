@@ -1,0 +1,92 @@
+﻿@model IEnumerable<UniversityManagementSystem.Models.Course>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style>
+        .table {
+            border: 1px solid black;
+            text-align: center;
+            color: chocolate;
+            font-size: 21px;
+            font-family: lucida;
+        }
+
+        tr, td, th {
+            border: 2px solid teal;
+            text-align: center;
+            color: chocolate;
+            font-size: 21px;
+            font-family: lucida;
+        }
+    </style>
+</head>
+<body>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+    <p style="font-family: comic sans ms; font-size: 28px; text-align: center;">
+        View All Courses Info
+    </p>
+    <table class="table" border="1" style="width:100%">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Department.DepartmentCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Semester.SemesterName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CourseCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CourseName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CourseCredit)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CourseDescription)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Department.DepartmentCode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Semester.SemesterName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CourseCode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CourseName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CourseCredit)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CourseDescription)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.CourseId }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.CourseId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.CourseId })
+                </td>
+            </tr>
+        }
+
+    </table>
+</body>
+</html>

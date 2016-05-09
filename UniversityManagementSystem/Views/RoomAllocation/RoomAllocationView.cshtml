@@ -1,0 +1,50 @@
+﻿@using UniversityManagementSystem.Models
+@model IEnumerable<UniversityManagementSystem.Models.Course>
+
+@{
+    ViewBag.Title = "Room Allocation View";
+}
+<style>
+    #DepartmentId {
+        margin-left: 10px;width: 150px;height: 30px;margin-bottom:60px;
+    }
+</style>
+<h2 style="color: coral; font-size: 28px; margin-top: 50px; margin-bottom: 30px; font-family: lucida; font-style: italic;">
+    View Class Schedule and Room Allocation Information
+</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        <b style="font-size: 24px; color: teal;">Select Department</b>
+        @Html.DropDownList("DepartmentId", String.Empty)
+    </div>
+}
+
+<p>
+    <br />
+</p>
+
+<div id="room-data">
+    @Html.Partial("~/Views/shared/_RoomAllocationView.cshtml", Model)
+</div>
+
+@Html.ActionLink("Back to home", "Index", "Main")
+<script src="~/Scripts/jquery-2.2.0.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+ 
+
+<script type="text/javascript">
+    function FillData(id) {
+        $('#room-data').load('@Url.Action("AllocatedRoomLoad")', { departmentId: id });
+    }
+
+    $(function () {
+        $('#DepartmentId').change(function () {
+            var id = $('#DepartmentId').val();
+            FillData(id);
+        });
+    });
+
+</script>

@@ -1,0 +1,77 @@
+﻿@model UniversityManagementSystem.Models.ResultEntry
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Save Student Result</h2>
+
+<h2 style="color: green">@TempData["success"]</h2>
+
+<h3 style="color: red">@TempData["Already"]</h3>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.StudentId, "Student Reg. No.", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("StudentId", String.Empty)
+                @Html.ValidationMessageFor(model => model.StudentId)
+            </div>
+        </div>
+
+        <div id="studentInfo">
+            @Html.Partial("~/Views/Shared/_StudentInformation.cshtml")
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CourseId, "Select Course", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.Partial("_FilteredCourse")
+                @Html.ValidationMessageFor(model => model.CourseId)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.GradeId, "Select Grade Letter", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("GradeId", String.Empty)
+                @Html.ValidationMessageFor(model => model.GradeId)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+@Html.ActionLink("Back to home", "Index", "Main")
+<script src="~/Scripts/jquery-2.2.0.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+ 
+<script type="text/javascript">
+    function FillData(id) {
+        $('#studentInfo').load('@Url.Action("StudentInfoLoad")', { studentId: id });
+        $('#CourseId').load('@Url.Action("CourseLoad")', { studentId: id });
+    }
+
+    $(function () {
+        $('#StudentId').change(function () {
+            var id = $('#StudentId').val();
+            FillData(id);
+        });
+    });
+</script>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

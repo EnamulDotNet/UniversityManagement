@@ -1,0 +1,80 @@
+﻿@model UniversityManagementSystem.Models.Course
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Delete</title>
+</head>
+<body>
+    <h3>Are you sure you want to delete this?</h3>
+    <div>
+        <h4>Course</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Department.DepartmentCode)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Department.DepartmentCode)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Semester.SemesterName)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Semester.SemesterName)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.CourseCode)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.CourseCode)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.CourseName)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.CourseName)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.CourseCredit)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.CourseCredit)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.CourseDescription)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.CourseDescription)
+            </dd>
+    
+        </dl>
+    
+        @using (Html.BeginForm()) {
+            @Html.AntiForgeryToken()
+    
+            <div class="form-actions no-color">
+                <input type="submit" value="Delete" class="btn btn-default" /> |
+                @Html.ActionLink("Back to List", "Index")
+            </div>
+        }
+    </div>
+</body>
+</html>

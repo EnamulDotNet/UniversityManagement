@@ -1,0 +1,74 @@
+﻿@model UniversityManagementSystem.Models.Course
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>Course</h4>
+    	<hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Department.DepartmentCode)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Department.DepartmentCode)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Semester.SemesterName)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Semester.SemesterName)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.CourseCode)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.CourseCode)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.CourseName)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.CourseName)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.CourseCredit)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.CourseCredit)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.CourseDescription)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.CourseDescription)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.CourseId }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

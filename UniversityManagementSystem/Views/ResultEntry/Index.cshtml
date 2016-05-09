@@ -1,0 +1,18 @@
+﻿@model IEnumerable<UniversityManagementSystem.Models.ResultEntry>
+
+@{
+    ViewBag.Title = "Student";
+}
+
+<h2>Wellcome to Student Result Processing System</h2>
+
+<table class="table">
+    <ul>
+        <li>
+            @Html.ActionLink("Save Student Result", "Create")
+        </li>
+        <li>
+            @Html.ActionLink("View Result", "ViewResult")
+        </li>
+    </ul>
+</table>

@@ -1,0 +1,50 @@
+﻿@model UniversityManagementSystem.Models.CourseEnroll
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>CourseEnroll</h4>
+    	<hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Course.CourseCode)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Course.CourseCode)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.StudentRegNo)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.StudentRegNo)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.EnrollDate)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.EnrollDate)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.CourseEnrollId }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

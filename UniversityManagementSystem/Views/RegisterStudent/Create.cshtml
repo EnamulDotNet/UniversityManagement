@@ -1,0 +1,165 @@
+﻿@model UniversityManagementSystem.Models.Student
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Register Student</title>
+
+    <link href="~/Content/ErrorValidation.css" rel="stylesheet" />
+
+    <style>
+        .BackHome {
+            margin-top: 50px;
+        }
+
+            .BackHome a {
+                text-decoration: none;
+                font-size: 26px;
+                font-family: arial;
+                margin-left: 400px;
+            }
+
+        .control-label {
+            font-size: 26px;
+            font-family: verdana;
+            margin-left: 80px;
+            margin-top: 7px;
+        }
+
+        #SemesterId {
+            width: 220px;
+            height: 25px;
+            margin-left: 80px;
+            margin-top: 10px;
+        }
+
+        #DepartmentId {
+            width: 220px;
+            height: 25px;
+            margin-left: 80px;
+            margin-top: 10px;
+        }
+
+        input[type="text"] {
+            margin-left: 80px;
+            margin-top: 6px;
+            width: 220px;
+            height: 29px;
+        }
+
+        input[type="submit"] {
+            background: teal;
+            color: whitesmoke;
+            font-size: 22px;
+            font-family: lucida;
+            margin-left: 170px;
+            margin-top: 10px;
+            margin-bottom: 3px;
+        }
+
+        .myAnchor {
+            margin-left: 150px;
+            margin-top: 7px;
+        }
+
+        .myFormDiv {
+            margin-left: 200px;
+        }
+
+        #Date {
+            width: 220px;
+            margin-left: 80px;
+            margin-top: 10px;
+        }
+    </style>
+
+</head>
+<body>
+    @using (Html.BeginForm()) 
+    {
+        @Html.AntiForgeryToken()
+        
+        <div class="form-horizontal myFormDiv">
+            <h4 style="color: teal; font-family: lucida; font-size: 25px;">Register Student</h4>
+            <hr />
+            @Html.ValidationSummary(true)
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.RegNo, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.HiddenFor(model => model.RegNo)
+                    @Html.ValidationMessageFor(model => model.RegNo)
+                </div>
+            </div>
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.Name, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Name)
+                    @Html.ValidationMessageFor(model => model.Name)
+                </div>
+            </div>
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.Email, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Email)
+                    @Html.ValidationMessageFor(model => model.Email)
+                </div>
+            </div>
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.ContactNO, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.ContactNO)
+                    @Html.ValidationMessageFor(model => model.ContactNO)
+                </div>
+            </div>
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.Date, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Date)
+                    @Html.ValidationMessageFor(model => model.Date)
+                </div>
+            </div>
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.Address, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Address)
+                    @Html.ValidationMessageFor(model => model.Address)
+                </div>
+            </div>
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.DepartmentId, "Department", new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.DropDownList("DepartmentId", String.Empty)
+                    @Html.ValidationMessageFor(model => model.DepartmentId)
+                </div>
+            </div>
+    
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Register" class="btn btn-default"/>
+                </div>
+                <h3 style="color: crimson; font-size: 24px; margin-left: 30px;"> @ViewBag.Message </h3>
+            </div>
+        </div>
+    }
+
+<div>
+    @Html.ActionLink("Back to home", "Index","Main")
+</div>
+    <script src="~/Scripts/jquery-2.2.0.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+</body>
+</html>

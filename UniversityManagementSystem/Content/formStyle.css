@@ -1,0 +1,91 @@
+﻿
+   
+        
+        
+         .BackHome {
+            margin-top: 50px;
+        }
+
+        .BackHome a {
+            text-decoration: none;
+            font-size: 26px;
+            font-family: arial;
+            margin-left: 400px;
+        }
+
+        .control-label {
+            font-size: 26px;
+            font-family: verdana;
+            margin-left: 80px;
+            margin-top: 7px;
+        }
+
+        #SemesterId {
+            width: 220px;
+            height: 25px;
+            margin-left: 80px;
+            margin-top: 10px;
+        }
+        #TeacherId {
+            width: 220px;
+            height: 25px;
+            margin-left: 80px;
+            margin-top: 10px;
+        }
+
+        #CourseId {
+            width: 220px;
+            height: 25px;
+            margin-left: 80px;
+            margin-top: 10px;
+        }
+        #DepartmentId {
+            width: 220px;
+            height: 25px;
+            margin-left: 80px;
+            margin-top: 10px;
+        }
+
+         #RoomId {
+            width: 220px;
+            height: 25px;
+            margin-left: 80px;
+            margin-top: 10px;
+        }
+
+          #DayId {
+            width: 220px;
+            height: 25px;
+            margin-left: 80px;
+            margin-top: 10px;
+        }
+
+        input[type="text"] {
+            margin-left: 80px;
+            margin-top: 6px;
+            width: 220px;
+            height: 29px;
+        }
+
+        input[type="submit"] {
+            background: teal;
+            color: whitesmoke;
+            font-size: 22px;
+            font-family: lucida;
+            margin-left: 70px;
+            margin-top: 10px;
+            margin-bottom: 3px;
+        }
+
+        .myAnchor {
+            margin-left: 150px;
+            margin-top: 7px;
+        }
+        .formdiv{margin-left: 200px;}
+
+        #CourseDescription {
+            width: 220px;
+            margin-left: 80px;
+            margin-top: 10px;
+        }
+   

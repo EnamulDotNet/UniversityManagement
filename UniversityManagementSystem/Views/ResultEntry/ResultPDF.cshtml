@@ -1,0 +1,76 @@
+﻿@model List<UniversityManagementSystem.Models.CourseEnroll>
+
+@{
+    ViewBag.Title = "Print Result";
+}
+
+<h2>Creative Thinking University</h2>
+<h3>Semester Result</h3>
+
+<div class="form-group">
+    <div class="col-md-10">
+        <div id="StudentInfo">
+            <table>
+                <tr>
+                    <td>Name: </td>
+                    <td>@ViewBag.Name</td>
+                </tr>
+                <tr>
+                    <td>Department:  </td>
+                    <td>@ViewBag.Dept</td>
+                </tr>
+                <tr>
+                    <td>Email: </td>
+                    <td>@ViewBag.Email</td>
+                </tr>
+                <tr>
+                    <td>Registration No. </td>
+                    <td>@ViewBag.RegNo</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>
+
+<p><br /></p>
+
+@if (Model != null)
+{
+    <table class="table table-striped">
+        <tr>
+            <th>
+                Course Code
+            </th>
+            <th>
+                Course Name
+            </th>
+            <th>
+                Grade
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Course.CourseCode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Course.CourseName)
+                </td>
+
+                <td>
+                    @if (item.GradeName != null)
+                    {
+                        @Html.DisplayFor(modelItem => item.GradeName)
+                    }
+                    @if (item.GradeName == null)
+                    {
+                        item.GradeName = "Not Graded Yet";
+                        @Html.DisplayFor(modelItem => item.GradeName)
+                    }
+                </td>
+            </tr>
+        }
+    </table>
+}

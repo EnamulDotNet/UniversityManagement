@@ -1,0 +1,49 @@
+﻿@model IEnumerable<UniversityManagementSystem.Models.Course>
+
+<table class="table table-striped">
+
+    <tr>
+        <th>
+            Course Code
+        </th>
+        <th>
+            Name/Title
+        </th>
+        <th>
+            Schedule Info
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseName)
+            </td>
+            <td>
+                @foreach (var anAllocatedRoom in item.RoomAllocationList)
+                {
+                    <b>Room:</b>
+                    @Html.DisplayFor(modelItem => anAllocatedRoom.Room.RoomNo)
+                    <i>,</i>
+                    @Html.DisplayFor(modelItem => anAllocatedRoom.Day.Name)
+                    <i>,</i>
+                    @Html.DisplayFor(modelItem => anAllocatedRoom.StartTime)
+                    <i>-</i>
+                    @Html.DisplayFor(modelItem => anAllocatedRoom.EndTime)
+                    <b><i>;</i></b>
+                }
+                @if (item.RoomAllocationList.Count == 0)
+                {
+                    <i>Unscheduled</i>
+                }
+            </td>
+        </tr>
+    }
+
+</table>
+
+<div style="color: darkgoldenrod"><h3>@ViewBag.NoCourse</h3></div>

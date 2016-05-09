@@ -1,0 +1,85 @@
+﻿@model UniversityManagementSystem.Models.Course
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        
+        <div class="form-horizontal">
+            <h4>Course</h4>
+            <hr />
+            @Html.ValidationSummary(true)
+            @Html.HiddenFor(model => model.CourseId)
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.CourseCode, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.CourseCode)
+                    @Html.ValidationMessageFor(model => model.CourseCode)
+                </div>
+            </div>
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.CourseName, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.CourseName)
+                    @Html.ValidationMessageFor(model => model.CourseName)
+                </div>
+            </div>
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.CourseCredit, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.CourseCredit)
+                    @Html.ValidationMessageFor(model => model.CourseCredit)
+                </div>
+            </div>
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.CourseDescription, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.CourseDescription)
+                    @Html.ValidationMessageFor(model => model.CourseDescription)
+                </div>
+            </div>
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.DepartmentId, "DepartmentId", new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.DropDownList("DepartmentId", String.Empty)
+                    @Html.ValidationMessageFor(model => model.DepartmentId)
+                </div>
+            </div>
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.SemesterId, "SemesterId", new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.DropDownList("SemesterId", String.Empty)
+                    @Html.ValidationMessageFor(model => model.SemesterId)
+                </div>
+            </div>
+    
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Save" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+    
+    <div>
+        @Html.ActionLink("Back to List", "Index")
+    </div>
+</body>
+</html>

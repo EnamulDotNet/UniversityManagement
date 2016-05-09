@@ -1,0 +1,61 @@
+﻿@model UniversityManagementSystem.Models.CourseEnroll
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        
+        <div class="form-horizontal">
+            <h4>CourseEnroll</h4>
+            <hr />
+            @Html.ValidationSummary(true)
+            @Html.HiddenFor(model => model.CourseEnrollId)
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.StudentRegNo, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.StudentRegNo)
+                    @Html.ValidationMessageFor(model => model.StudentRegNo)
+                </div>
+            </div>
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.CourseId, "CourseId", new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.DropDownList("CourseId", String.Empty)
+                    @Html.ValidationMessageFor(model => model.CourseId)
+                </div>
+            </div>
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.EnrollDate, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.EnrollDate)
+                    @Html.ValidationMessageFor(model => model.EnrollDate)
+                </div>
+            </div>
+    
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Save" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+    
+    <div>
+        @Html.ActionLink("Back to List", "Index")
+    </div>
+</body>
+</html>

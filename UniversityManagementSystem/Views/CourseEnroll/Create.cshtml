@@ -1,0 +1,140 @@
+﻿@model UniversityManagementSystem.Models.CourseEnroll
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Course Enroll</title>
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <style>
+        #error-field-validation{color:crimson;}
+         a{margin-left:350px;}
+        #StudentRegNo {
+
+            width: 230px;height: 35px;margin-left: 50px;margin-top: 7px;
+        }
+        #CourseId {
+            width: 230px;
+            height: 35px;
+            margin-left: 50px;
+            margin-top: 7px;
+        }
+        #EnrollDate {
+            width: 230px;
+            height: 35px;
+            margin-left: 50px;
+            margin-top: 7px;
+        }
+        #submit {
+            margin-left: 110px;margin-top: 20px;width: 130px;height: 33px;font-size: 26px;
+            background: blue;color: whitesmoke;font-style: italic;font-family: lucida;
+        }
+    </style>
+</head>
+<body>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset style="border: 1px solid gray; width: 800px; margin: 0px auto; margin-top: 70px;">
+        <legend style="color: black; font-size: 27px; font-family: arial;">Course Enroll</legend>
+
+        <div class="editor-label">
+            <span style="margin-left: 50px; margin-top: 11px; font-size: 22px; font-family: verdana; color: teal;">   @Html.LabelFor(model => model.StudentRegNo, "Student RegNo")</span>
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("StudentRegNo", string.Empty)
+            @Html.ValidationMessageFor(model => model.StudentRegNo)
+        </div>
+        <div>
+            <table>
+                <tr>
+
+                    <td><span style="margin-left: 50px; margin-top: 11px; font-size: 22px; font-family: verdana; color: teal;">Student Name: </span></td>
+                    <td id="stdNameInfo"></td>
+
+
+                </tr>
+
+                <tr>
+
+                    <td><span style="margin-left: 50px; margin-top: 11px; font-size: 22px; font-family: verdana; color: teal;">
+
+    Student Email :</span>
+                    </td>
+
+                    <td id="stdEmail"></td>
+
+                </tr>
+
+                <tr>
+                    <td><span style="margin-left: 50px; margin-top: 11px; font-size: 22px; font-family: verdana; color: teal;">Department: </span></td>
+                    <td id="stdDeptName"></td>
+
+                </tr>
+            </table>
+        </div>
+        <div class="editor-label">
+            <span style="margin-left: 50px; margin-top: 11px; font-size: 22px; font-family: verdana; color: teal;">   @Html.LabelFor(model => model.CourseId, "Course")
+                </span>
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("CourseId", String.Empty)
+            @Html.ValidationMessageFor(model => model.CourseId)
+        </div>
+
+        <div class="editor-label">
+            <span style="margin-left: 50px; margin-top: 11px; font-size: 22px; font-family: verdana; color: teal;">  @Html.LabelFor(model => model.EnrollDate)</span>
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.EnrollDate)
+            @Html.ValidationMessageFor(model => model.EnrollDate)
+        </div>
+
+        <p>
+            <input type="submit" value="Enroll" id="submit"/>
+        </p>
+    </fieldset>
+}
+<h3>@ViewBag.message</h3>
+
+<div>
+    @Html.ActionLink("Back to home", "Index", "Main")
+</div>
+<script src="~/Scripts/jquery-2.2.0.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("#StudentRegNo").change(function() {
+            var studentId = $(this).val();
+            $.getJSON("/CourseEnroll/GetStudentEnrollInfo", { selectStudentId: studentId },
+                function(result) {
+                    if (result != null) {
+                        $("#stdNameInfo").text(result.name);
+                        $("#stdEmail").text(result.email);
+                        $("#stdDeptName").text(result.deptname);
+                        //  $("#remained").text(result.remained);
+                    } else {
+                        alert("Select Student RegNo");
+                    }
+                }, 'json');
+
+
+        });
+
+    });
+
+
+</script>
+
+</body>
+</html>
